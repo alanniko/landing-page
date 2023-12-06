@@ -4,32 +4,71 @@ Your subtitle goes here.
 
 ## Our Team
 
-<div align="center">
+<style>
+    .team-container {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        max-width: 600px;
+        margin: 0 auto;
+    }
 
-[![Ihsan F](images/1.jpg)](https://github.com/ihsanfer)
-*Ihsan Fermantono*
+    .team-member {
+        flex: 1 0 30%;
+        margin: 10px;
+    }
 
-[![Rima T](images/2.jpg)](https://github.com/rimatria)
-*Rima Tria Farida*
+    .team-member img {
+        border-radius: 50%;
+        width: 100px;
+        height: 100px;
+        object-fit: cover;
+        margin-bottom: 10px;
+    }
 
-[![Sabrina F](images/3.jpg)](https://github.com/sabrinafahra)
-*Sabrina Farrah Athadiva*
+    .team-member p {
+        margin: 0;
+    }
+</style>
 
-</div>
+<div class="team-container">
 
-<div align="center">
+    <div class="team-member">
+        <img src="images/1.jpg" alt="Ihsan F">
+        <p>Ihsan Fermantono</p>
+    </div>
 
-[![Nazir A](images/IMG_20210801_123322.jpg)](https://github.com/naziralan)
-*Nazir Alan Nikolas*
+    <div class="team-member">
+        <img src="images/2.jpg" alt="Rima T">
+        <p>Rima Tria Farida</p>
+    </div>
 
-[![Fikri K](images/5.jpg)](https://github.com/fikrikhairs)
-*Fikri Khairul Saleh*
+    <div class="team-member">
+        <img src="images/3.jpg" alt="Sabrina F">
+        <p>Sabrina Farrah Athadiva</p>
+    </div>
 
-[![Wira S](images/6.jpg)](https://github.com/wirassp)
-*Wira Sukma Saputra*
+    <div class="team-member">
+        <img src="images/IMG_20210801_123322.jpg" alt="Nazir A">
+        <p>Nazir Alan Nikolas</p>
+    </div>
 
-[![Raihan R](images/7.jpg)](https://github.com/mraihanrr)
-*Muhammad Raihan Rahim*
+    <div class="team-member">
+        <img src="images/5.jpg" alt="Fikri K">
+        <p>Fikri Khairul Saleh</p>
+    </div>
+
+    <div class="team-member">
+        <img src="images/6.jpg" alt="Wira S">
+        <p>Wira Sukma Saputra</p>
+    </div>
+
+    <div class="team-member">
+        <img src="images/7.jpg" alt="Raihan R">
+        <p>Muhammad Raihan Rahim</p>
+    </div>
 
 </div>
 
