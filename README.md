@@ -4,16 +4,16 @@ Your subtitle goes here.
 
 ## Our Team
 <div align="center">
-  <img src="images/1.jpg" alt="Ihsan F" style="border-radius: 50%; max-width: 100px; margin: 10px;">
-  <img src="images/2.jpg" alt="Rima T" style="border-radius: 50%; max-width: 100px; margin: 10px;">
-  <img src="images/3.jpg" alt="Sabrina F" style="border-radius: 50%; max-width: 100px; margin: 10px;">
-  <img src="images/IMG_20210801_123322.jpg" alt="Nazir A" style="border-radius: 50%; max-width: 100px; margin: 10px;">
+  <img src="images/1.jpg" alt="Ihsan F" style="border-radius: 50%; max-width: 80px; margin: 10px;">
+  <img src="images/2.jpg" alt="Rima T" style="border-radius: 50%; max-width: 80px; margin: 10px;">
+  <img src="images/3.jpg" alt="Sabrina F" style="border-radius: 50%; max-width: 80px; margin: 10px;">
+  <img src="images/IMG_20210801_123322.jpg" alt="Nazir A" style="border-radius: 50%; max-width: 80px; margin: 10px;">
 </div>
 
 <div align="center">
-  <img src="images/5.jpg" alt="Fikri K" style="border-radius: 50%; max-width: 100px; margin: 10px;">
-  <img src="images/6.jpg" alt="Wira S" style="border-radius: 50%; max-width: 100px; margin: 10px;">
-  <img src="images/7.jpg" alt="Raihan R" style="border-radius: 50%; max-width: 100px; margin: 10px;">
+  <img src="images/5.jpg" alt="Fikri K" style="border-radius: 50%; max-width: 80px; margin: 10px;">
+  <img src="images/6.jpg" alt="Wira S" style="border-radius: 50%; max-width: 80px; margin: 10px;">
+  <img src="images/7.jpg" alt="Raihan R" style="border-radius: 50%; max-width: 80px; margin: 10px;">
 </div>
 
 <div align="center">
