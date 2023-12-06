@@ -4,13 +4,14 @@
 
 ## Our Team
 -Time ID : PH2-PS273
-| <img src="images/1.jpg" alt="Ihsan F" style="border-radius: 50%; max-width: 60px; margin: 10px;"> | <img src="images/2.jpg" alt="Rima T" style="border-radius: 50%; max-width: 60px; margin: 10px;"> | <img src="images/3.jpg" alt="Sabrina F" style="border-radius: 50%; max-width: 60px; margin: 10px;"> | <img src="images/IMG_20210801_123322.jpg" alt="Nazir A" style="border-radius: 50%; max-width: 60px; margin: 10px;"> |
+| ![Ihsan F](images/1.jpg =60x60) | ![Rima T](images/2.jpg =60x60) | ![Sabrina F](images/3.jpg =60x60) | ![Nazir A](images/IMG_20210801_123322.jpg =60x60) |
 | --- | --- | --- | --- |
 | Ihsan Fermantono | Rima Tria Farida | Sabrina Farrah Athadiva | Nazir Alan Nikolas |
 
-| <img src="images/5.jpg" alt="Fikri K" style="border-radius: 50%; max-width: 60px; margin: 10px;"> | <img src="images/6.jpg" alt="Wira S" style="border-radius: 50%; max-width: 60px; margin: 10px;"> | <img src="images/7.jpg" alt="Raihan R" style="border-radius: 50%; max-width: 60px; margin: 10px;"> |
+| ![Fikri K](images/5.jpg =60x60) | ![Wira S](images/6.jpg =60x60) | ![Raihan R](images/7.jpg =60x60) |
 | --- | --- | --- |
 | Fikri Khairul Saleh | Wira Sukma Saputra | Muhammad Raihan Rahim |
+
 
 
 
