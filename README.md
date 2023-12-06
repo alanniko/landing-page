@@ -19,18 +19,18 @@
 
 ## About
 
-This is a brief description of the Home Agriculture Monitoring System.
+
 
 ## Getting Started
 
-Instructions on how to get started with the system.
+
 
 ## Features
 
 - Feature 1
 - Feature 2
-- ...
+
 
 ## Contributing
 
-If you would like to contribute, please follow these guidelines.
+
