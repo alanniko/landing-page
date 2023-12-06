@@ -3,7 +3,8 @@
 
 
 ## Our Team
--Time ID : PH2-PS273
+Team ID : PH2-PS273
+Team Member : 
 | Nama                   | Bangkit ID   | Learning Path      | GitHub/LinkedIn          |
 | ---------------------- | ------------ | ------------------- | ------------------------ |
 | Ihsan Fermantono       | M004BSY1739  | Machine Learning    | [GitHub](https://github.com/ihsanfermanto) / [LinkedIn](https://www.linkedin.com/in/ihsanfermanto/)               |
