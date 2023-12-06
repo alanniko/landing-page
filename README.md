@@ -1,6 +1,6 @@
 # CampingCuy
 
-
+![Logo](images/logo.jpg)
 
 ## Our Team
  Team ID : PH2-PS273
@@ -14,8 +14,6 @@
 | Nazir Alan Nikolas     | C206BSY3857  | Cloud Computing     | [GitHub](https://github.com/naziralan) / [LinkedIn](https://www.linkedin.com/in/naziralan/)                     |
 | Wira Sukma Saputra     | A246BSY2576  | Mobile Development  | [GitHub](https://github.com/wirasukma) / [LinkedIn](https://www.linkedin.com/in/wirasukma/)                   |
 | Muhammad Raihan Rahim  | A550BKY4479  | Mobile Development  | [GitHub](https://github.com/mraihanrahim) / [LinkedIn](https://www.linkedin.com/in/mraihanrahim/)             |
-
-
 
 
 
