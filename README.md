@@ -4,7 +4,7 @@ Your subtitle goes here.
 
 ## Our Team
 
-![John Doe](images/member1.jpg)
+![John Doe](images/IMG_20210801_123322.jpg)
 *John Doe*
 
 ![Jane Smith](images/member2.jpg)
